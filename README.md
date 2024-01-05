@@ -8,6 +8,7 @@ Passionate and highly skilled software engineer with a strong focus on full-stac
 
 #### Connect with me
 - [LinkedIn](https://www.linkedin.com/in/adwaith-athman/)
+- [Twitter](https://twitter.com/Adwaith_17)
 - [Instagram](https://www.instagram.com/adwaith_athman_17/)
 
 #### Languages and Tools 
