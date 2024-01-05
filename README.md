@@ -4,7 +4,7 @@
 Passionate and highly skilled software engineer with a strong focus on full-stack development, specializing in Node.js and React.js. Proven expertise in designing and building robust, scalable applications on the AWS Cloud Platform.
 
 - 💬 Ask me about **MERN**
-- 📫 How to reach me **iamadwaith17@gmail.com**
+- 📫 How to reach me **contact@iamadwaith17@gmail.com**
 
 #### Connect with me
 - [LinkedIn](https://www.linkedin.com/in/adwaith-athman/)
