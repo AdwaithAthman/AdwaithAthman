@@ -1,6 +1,5 @@
-## Hi 👋, I'm Adwaith Athman
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey+👋,+I'm+Adwaith+Athman!;I'm+a+MERN+Stack+Developer...;)](https://git.io/typing-svg) 
 
-#### A passionate full-stack developer.    
 Passionate and highly skilled software engineer with a strong focus on full-stack development, specializing in Node.js and React.js. Proven expertise in designing and building robust, scalable applications on the AWS Cloud Platform.
 
 - 💬 Ask me about **MERN**
