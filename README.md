@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi 👋, I'm Adwaith Athman
 
-<!--
-**AdwaithAthman/AdwaithAthman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### A passionate full-stack developer.    
+Passionate and highly skilled software engineer with a strong focus on full-stack development, specializing in Node.js and React.js. Proven expertise in designing and building robust, scalable applications on the AWS Cloud Platform.
 
-Here are some ideas to get you started:
+- 💬 Ask me about **MERN**
+- 📫 How to reach me **contact@9633097398**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Connect with me
+- [LinkedIn](https://www.linkedin.com/in/adwaith-athman/)
+- [Instagram](https://www.instagram.com/adwaith_athman_17/)
+
+#### Languages and Tools 
+
+`AWS` `AdobeXD` `Bootstrap` `Bash` `CSS` `Docker` `ExpressJS` `EJS` `Figma` `Firebase` `Git` `Github` `HTML` `HBS` `JavaScript` `Linux` `MongoDB` `MySql` `Nginx` `NodeJS` `NextJS` `Nginx` `PostMan` `PostgreSql` `ReactJS` `Redux` `Redis` `TypeScript` `TailwindCSS` `Ubuntu` `VS-Code`  
+
+#### Some of my works
+
+[**Socioverse**](https://socioverse.online/) -
+[**Watch-Clinic**](https://watchclinic.tech/)
