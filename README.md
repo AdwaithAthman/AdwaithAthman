@@ -17,4 +17,5 @@ Passionate and highly skilled software engineer with a strong focus on full-stac
 #### Some of my works
 
 [**Socioverse**](https://socioverse.online/) -
-[**Watch-Clinic**](https://watchclinic.tech/)
+[**Watch-Clinic**](https://watchclinic.tech/) -
+[**BugBrew**](https://bug-brew-issue-tracker.vercel.app/)
