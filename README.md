@@ -19,3 +19,7 @@ Passionate and highly skilled software engineer with a strong focus on full-stac
 [**Socioverse**](https://socioverse.online/) -
 [**Watch-Clinic**](https://watchclinic.tech/) -
 [**BugBrew**](https://bug-brew-issue-tracker.vercel.app/)
+
+#### Github Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AdwaithAthman&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
