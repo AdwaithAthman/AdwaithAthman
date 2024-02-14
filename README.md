@@ -12,7 +12,7 @@ Passionate and highly skilled software engineer with a strong focus on full-stac
 
 #### Languages and Tools 
 
-`AWS` `AdobeXD` `Apollo-GraphQL` `Bootstrap` `Bash` `CSS` `Docker` `ExpressJS` `EJS` `Figma` `Firebase` `Git` `Github` `GraphQL` `HTML` `HBS` `JavaScript` `Linux` `MongoDB` `MySql` `Material-UI` `Nginx` `NodeJS` `NextJS` `PostMan` `PostgreSql` `Prisma` `ReactJS` `ReactQuery` `Redux` `Redis` `TypeScript` `TailwindCSS` `Ubuntu` `VS-Code`  
+`AWS` `AdobeXD` `Apollo-GraphQL` `Bootstrap` `Bash` `CSS` `Docker` `ExpressJS` `EJS` `Figma` `Firebase` `Git` `Github` `GraphQL` `HTML` `HBS` `JavaScript` `Jest` `Linux` `MongoDB` `MySql` `Material-UI` `Nginx` `NodeJS` `NextJS` `PostMan` `PostgreSql` `Prisma` `ReactJS` `ReactQuery` `React-Testing Library` `Redux` `Redis` `TypeScript` `TailwindCSS` `Ubuntu` `VS-Code` `Vite` `Vitest`
 
 #### Some of my works
 
